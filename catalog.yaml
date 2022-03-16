@@ -1,0 +1,4 @@
+name: simple-template-catalog
+displayName: Simple CloudBees Pipeline Template Catalog
+version: 1
+type: pipeline-template-catalog
